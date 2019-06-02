@@ -1,0 +1,77 @@
+body {background-color: #2f4454;
+}
+
+
+h1 {
+    color: dimgray;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 85px;
+    margin: 15px;
+    padding-top: 25px;
+}
+h3 {
+    color: rgb(144, 180, 180);
+    font-family: fantasy;
+    text-align: center;
+    font-size: 45px;
+    margin: 15px;
+}
+h2 {
+    color: #DA7B93;
+    font-family: fantasy;
+    font-size: 2em;
+    margin: 20px 100px;
+
+}
+h4 {
+    color: cyan;
+    font-size: 1.5em;
+    font-family: fantasy;
+    margin: 0 25px;
+}
+
+.flamenco {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: groove 5px darkcyan;
+  }
+.font {
+      font-family: palatino;
+      color: lightcyan;
+}
+ul {
+    font-family: georgia;
+    color: lightcyan;
+    font-size: 1.5em;
+    margin-left: 100px;
+}
+p {
+    line-height: 1.5em;
+    font-size: 20px;
+    width: 800px;
+    margin: 20px auto;
+}
+#banner .content h1 {
+    border: groove 10px darkcyan;
+    background-color: rgb(150, 53, 77);
+    border-radius: 15px;
+    position: relative;
+    width: 100%;
+    padding: 25px auto;
+}
+.enlace{
+    color: darkcyan;
+}
+.videos {
+    display: inline-block;
+    margin: 20px 50px;
+}
+.iconic{
+    display: inline-block;
+    margin: 0 auto;
+}
+#iconiclist {
+    padding: 100px auto;
+}
